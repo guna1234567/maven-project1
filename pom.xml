@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Guna</finalName>
+    <finalName>Guna1</finalName>
   </build>
 </project>
