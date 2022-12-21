@@ -16,10 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-<<<<<<< HEAD
     <finalName>project2</finalName>
-=======
-    <finalName>project1</finalName>
->>>>>>> dfcbdca77caf12c9b63481b740b42a8a8dd46a41
   </build>
 </project>
