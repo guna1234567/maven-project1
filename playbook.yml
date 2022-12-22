@@ -5,4 +5,4 @@
   - name: Installing Git Package
     yum: name=git
   - name: installing httpd package
-    yum: name:httpd
+    yum: name=httpd
