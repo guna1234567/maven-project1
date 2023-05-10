@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>simplepipeline</finalName>
+    <finalName>pipeline project</finalName>
   </build>
 </project>
